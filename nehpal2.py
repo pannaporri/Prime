@@ -1,3 +1,4 @@
+num=int(input("Enter the integer: "))
 if num > 1: 
       
    # Iterate from 2 to n / 2  
